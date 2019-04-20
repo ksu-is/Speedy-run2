@@ -1,6 +1,6 @@
 ![1](https://user-images.githubusercontent.com/46737258/56450828-70639f80-6363-11e9-8d7a-7c621d951b8d.jpg)
 
-###############Introduction of the project
+############### Introduction of the project
 
 #### We are going to make game through python code. The game will be car racing game. We are using existing python code to remake this racing game. The game would be required to use python 3 or visual studio to run.
 
