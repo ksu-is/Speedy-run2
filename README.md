@@ -13,7 +13,7 @@
 #### Arrows from keyboard will be the one and only controller for car movement in this racing game. 
 
 Tasks for our group
-- [o] Set the README.md file
+- [x] Set the README.md file
 - [o] Set the task list
 - [o] Find related repository which related to our project
 - [o] Clone repository to the team
