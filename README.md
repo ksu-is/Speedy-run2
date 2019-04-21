@@ -17,11 +17,6 @@ Tasks for our group
 - [o] Set the task list
 - [o] Find related repository which related to our project
 - [o] Clone repository to the team
-- [x] Ensure repository is public
-- [x] Assign an open source license
-- [x] Make sure team members have access to repository
-
-- [ ] Evaluate related repository
-- [ ] Test repository & get it running
-- [ ] Document how to work [xx] repository 
-- [ ] Document issues encounted
+- [o] Each member have right to access repository
+- [o] Evaluate related repository
+- [o] run the code from the repository
