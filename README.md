@@ -11,3 +11,17 @@
 ***Game controller***
 
 #### Arrows from keyboard will be the one and only controller for car movement in this racing game. 
+
+Tasks for our group
+- [o] Set the README.md file
+- [o] Set the task list
+- [o] Find related repository which related to our project
+- [o] Clone repository to the team
+- [x] Ensure repository is public
+- [x] Assign an open source license
+- [x] Make sure team members have access to repository
+
+- [ ] Evaluate related repository
+- [ ] Test repository & get it running
+- [ ] Document how to work [xx] repository 
+- [ ] Document issues encounted
