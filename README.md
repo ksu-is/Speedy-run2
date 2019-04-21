@@ -14,9 +14,9 @@
 
 Tasks for our group
 - [x] Set the README.md file
-- [o] Set the task list
-- [o] Find related repository which related to our project
-- [o] Clone repository to the team
-- [o] Each member have right to access repository
-- [o] Evaluate related repository
-- [o] run the code from the repository
+- [x] Set the task list
+- [x] Find related repository which related to our project
+- [x] Clone repository to the team
+- [x] Each member have right to access repository
+- [x] Evaluate related repository
+- [x] run the code from the repository
