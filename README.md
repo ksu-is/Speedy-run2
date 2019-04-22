@@ -12,11 +12,14 @@
 
 #### Arrows from keyboard will be the one and only controller for car movement in this racing game. 
 
-Tasks for our group
+Project road map for Speedyrun 2
 - [x] Set the README.md file
-- [x] Set the task list
+- [x] Set the task road map
 - [x] Find related repository which related to our project
 - [x] Clone repository to the team
 - [x] Each member have right to access repository
 - [x] Evaluate related repository
+- [x] Create seperate repository
 - [x] run the code from the repository
+- [ ] reporting issues
+- [ ] ensure repository as an open source license
