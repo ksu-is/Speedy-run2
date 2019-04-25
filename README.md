@@ -6,7 +6,7 @@
 
 ***Brief description of the game***
 
-#### The car is heading forward and there are barriers which can disturb the movement of the car. Player needs to focus on the barrier and avoid from them. The car speed will be increasing by whenever the vehicle pass by ten barriers. The game will end when the car is bumped against the existing barriers.
+#### The car is heading forward and there are two cars coming which can disturb the movement of the car. Player needs to focus on avoiding them. The car speed will be increasing by whenever the vehicle pass by ten barriers. The game will end when the car is bumped against the existing barriers.
 
 ***Game controller***
 
