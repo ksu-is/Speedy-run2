@@ -40,7 +40,24 @@ car_Img = pygame.image.load('car2.png')
 car_Img2 = pygame.image.load('car1.jpg')
 car_Img3 = pygame.image.load('car3.png')
 
+def pause():
 
+        pause = True
+
+        while paused:
+                for event in pygame.event.get():
+                        if event.type == pygame.QUIT:
+                                pygame.quit()
+                                quit()
+
+                        if event.type == pygame.KEYDOWN:
+                                if event.key == pygame.K_c:
+                                        puased = False
+
+                                elif event.key == pygame.K_q:
+                                        pygame.quit()
+                                        quit()
+					
 def car1(x,y):
     raceDisplay.blit(car_Img, (car_position[0],car_position[1]))
 
