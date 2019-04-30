@@ -93,9 +93,10 @@ while not speed:
         		y-=100
         	elif event.key == pygame.K_DOWN:
         		y+=100
+	 	elif event.key == pygame.K_p
 
         	car_position=[x,y]	
-
+		pause()
 
     raceDisplay.fill(white)
 
