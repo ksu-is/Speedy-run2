@@ -19,7 +19,7 @@ speed = False
 #loading car image
 car1 = pygame.image.load('car1.png')
 #def the car1
-def car(x,y):
+def car1(x,y):
     gameDisplay.blit(car1, (x,y))
 #make the starting point of our car
 x= 500
