@@ -1,4 +1,6 @@
 #hope this code will work
+#i just try the code it works
+#let me add the control
 #import libraries
 import pygame
 import sys
@@ -29,7 +31,19 @@ while not speedover:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             speedover = True
-            sys.exit()
+            #the code for control
+        if event.type == pygame.KEYDOWN:
+        if event.key == pygame.K_LEFT:
+            x=25
+        elif event.key == pygame.K_RIGHT:
+            x=25
+        elif event.key == pygame.K_UP:
+        	y=25
+        elif event.key == pygame.K_DOWN:
+        	y=25
+
+        	car_position=[x,y]
+            
 #backg fill
     raceDisplay.fill(white)
     car(x,y)
