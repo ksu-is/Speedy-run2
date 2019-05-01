@@ -30,6 +30,16 @@ while not speed:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             speed = True
+# key that we are using left and right arrow keys            
+if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_LEFT:
+                x_change = -5
+            elif event.key == pygame.K_RIGHT:
+                x_change = 5
+        if event.type == pygame.KEYUP:
+            if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
+                x_change = 0            
+            
 #make the backg color
 raceDisplay.fill(white)
 car(x,y)
