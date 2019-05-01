@@ -1,13 +1,3 @@
-![1](https://user-images.githubusercontent.com/46737258/56450828-70639f80-6363-11e9-8d7a-7c621d951b8d.jpg)
-
-***Introduction of the project***
-
-#### We are going to make game through python code. The game will be car racing game. We are using existing python code to remake this racing game. The game would be required to use python 3 or visual studio to run.
-
-***Brief description of the game***
-
-#### The car is heading forward and there are two cars coming which can disturb the movement of the car. Player needs to focus on avoiding them. The car speed will be increasing by whenever the vehicle pass by ten barriers. The game will end when the car is bumped against the existing barriers.
-
-***Game controller***
-
-#### Arrows from keyboard will be the one and only controller for car movement in this racing game. 
+# A-bit-racey---game
+A game in which score is increased by the number of dodged obstacles just by the use of arrow keys. It is build on Python using Pygame.
+![ezgif com-video-to-gif](https://cloud.githubusercontent.com/assets/15019864/17464870/3ecfe7b4-5d06-11e6-8e6b-3e9da2f6ee08.gif)
