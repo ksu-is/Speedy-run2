@@ -31,7 +31,7 @@ while not speed:
         if event.type == pygame.QUIT:
             speed = True
 #make the backg color
-gameDisplay.fill(white)
+raceDisplay.fill(white)
 car(x,y)
     
 
