@@ -1,6 +1,7 @@
 #import pygame
 import pygame
-
+#closing game
+import sys
 #initialize game
 pygame.init()
 
@@ -24,6 +25,7 @@ while(race==False):
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             dead = True
+            sys.exit()
 
     screengame.blit(background_image, [0, 0])
 
