@@ -9,8 +9,8 @@ height = 850
 raceDisplay = pygame.display.set_mode((width,height))
 pygame.display.set_caption('Speedy Run')
 #adding the color for our screen
-black = (0,0.0)
-white = (255.255.255)
+black = (0,0,0)
+white = (255,255,255)
 
 # This is for frame per second of the game. If we put high value in the () The game goes more smoothly.
 clock = pygame.time.Clock()
