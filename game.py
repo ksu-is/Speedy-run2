@@ -1,10 +1,11 @@
+# import pygame from library
 import pygame
 
 pygame.init()
-
-raceDisplay = pygame.display.set_mode((1000,850))
+# size and set the main display of the game.
+raceDisplay = pygame.display.set_mode((width,height))
 pygame.display.set_caption('Speedy Run')
-
+# This is for frame per second of the game. If we put high value in the () The game goes more smoothly.
 clock = pygame.time.Clock()
 
 speed = False
