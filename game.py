@@ -37,3 +37,6 @@ def car1(x,y):
     pygame.display.flip()
     carimage1(450,100)
     clock.tick()
+    
+pygame.quit()
+quit()
